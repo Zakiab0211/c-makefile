@@ -1,0 +1,10 @@
+^D:\VISCODE\BUILD\CMAKEFILES\4AC88BE5B4AAEBAAD306C1F694E0BF39\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/viscode -BD:/viscode/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/viscode/build/helloworld.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,9 @@
+D:/viscode/out/build/Visual Studio Build Tools 2022 Release - x86_amd64/CMakeFiles/helloworld.dir
+D:/viscode/out/build/Visual Studio Build Tools 2022 Release - x86_amd64/CMakeFiles/Experimental.dir
+D:/viscode/out/build/Visual Studio Build Tools 2022 Release - x86_amd64/CMakeFiles/Nightly.dir
+D:/viscode/out/build/Visual Studio Build Tools 2022 Release - x86_amd64/CMakeFiles/Continuous.dir
+D:/viscode/out/build/Visual Studio Build Tools 2022 Release - x86_amd64/CMakeFiles/NightlyMemoryCheck.dir
+D:/viscode/out/build/Visual Studio Build Tools 2022 Release - x86_amd64/CMakeFiles/PACKAGE.dir
+D:/viscode/out/build/Visual Studio Build Tools 2022 Release - x86_amd64/CMakeFiles/RUN_TESTS.dir
+D:/viscode/out/build/Visual Studio Build Tools 2022 Release - x86_amd64/CMakeFiles/ALL_BUILD.dir
+D:/viscode/out/build/Visual Studio Build Tools 2022 Release - x86_amd64/CMakeFiles/ZERO_CHECK.dir

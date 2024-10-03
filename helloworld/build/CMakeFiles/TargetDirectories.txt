@@ -1,0 +1,8 @@
+D:/viscode/helloworld/build/CMakeFiles/CMakeLists.txt.dir
+D:/viscode/helloworld/build/CMakeFiles/Experimental.dir
+D:/viscode/helloworld/build/CMakeFiles/Nightly.dir
+D:/viscode/helloworld/build/CMakeFiles/Continuous.dir
+D:/viscode/helloworld/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/viscode/helloworld/build/CMakeFiles/RUN_TESTS.dir
+D:/viscode/helloworld/build/CMakeFiles/ALL_BUILD.dir
+D:/viscode/helloworld/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^D:\VISCODE\OUT\BUILD\VISUAL STUDIO BUILD TOOLS 2022 RELEASE - X86_AMD64\CMAKEFILES\B6DFF28543BE001B54B5FEFD62DB5A51\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/viscode "-BD:/viscode/out/build/Visual Studio Build Tools 2022 Release - x86_amd64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/viscode/out/build/Visual Studio Build Tools 2022 Release - x86_amd64/helloworld.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
